@@ -1,7 +1,7 @@
 = Event Registration Application
 
 
-This is my Event Registration Application. An assigned project for my Introduction to Software Engineering course. Developed using a Heroku Postgres database, a Spring Boot backend, and a Vue.js frontend.
+This is my Event Registration Application, an assigned project for my Introduction to Software Engineering course which allows user to book events and attach necessary infor to each event. Developed using a Heroku Postgres database, a Spring Boot backend, and a Vue.js frontend.
 
 Backend URL: https://eventregistration-backend-vic.herokuapp.com/
 
